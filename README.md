@@ -12,7 +12,11 @@ In my search for a job in cybersecurity, I learnt that knowledge of a scripting 
 **Goals** 
 
 Consistency: I hope to code every day for the next 100 days, no excuses! It would be difficult though as I have my final semester exams coming up very soon and I am concurrently writing my final year thesis. But I hope to do it regardless. 
+
+
 Learning: Dive deep into Python fundamentals and advanced topics.
+
+
 Projects: Work on coding projects to apply and reinforce what I learn. 
 
 
