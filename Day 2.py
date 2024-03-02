@@ -60,6 +60,26 @@ schoolindex = moreschool.find(school.lower()[0])
 print(schoolindex)
 # now it returns 1 which is the second char in moreschool string.
 
+num_char = (len(input("What is your name?\n")))
+
+new_num_char = str(num_char)
+# the above is how you change data type. The content in num_char is a int and I converted it to str.
+print(type(new_num_char))
+
+print('Your name has ' + new_num_char + ' characters')
+
+# you can use the bracket notation to access the value stored in a var and store it in another var
+
+studentsName = 'Joseph Oba Temitope Adeoye'
+studentsName.find('Joseph')
+firstName = studentsName.find('Joseph')
+print(firstName)
+
+
+
+
+
+
 
 
 
