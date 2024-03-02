@@ -75,7 +75,22 @@ studentsName.find('Joseph')
 firstName = studentsName.find('Joseph')
 print(firstName)
 
+# day 2 first challenge
+# Instructions
+# Write a program that adds the digits in a 2 digit number.
+# e.g If the input was 35, then the output should be 3 + 5 = 8
 
+two_digit_number = input('Type a two digit number')
+
+first_num = two_digit_number[0]
+second_num = two_digit_number[1]
+# in the above, i isolated the two digits from each other
+
+first_number = int(first_num)
+second_number = int(second_num)
+# in the above, i changed the individually isolated numbers from str that they were by default to int
+print(first_number + second_number)
+# above i mathematically summed the two digits
 
 
 
