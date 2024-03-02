@@ -12,15 +12,6 @@ name = 'King'
 print(type(name))
 # the type of the object above would be string.
 
-print(3 * 3 + 3 / 3 - 3)
-# the output of this code would be 7.0. Python follows the BODMAS rule in making this kind of calculation.
-# BODMAS = Brackets, Orders (exponents and roots), Division and Multiplication, Addition and Subtraction.
-# step by step execution of the code would go thus:
-# 3 * 3 = 9 (Multiplication) (from left to right)
-# 3 / 3 = 1 (Division) (from left to right)
-# 9 + 1 = 10 (Addition) (from left to right)
-# 10 - 3 = 7 (Subtraction) (from left to right)
-
 sentence = 'Python is an amazing programming language'
 sentence.find('is')
 indexz = sentence.find('is')
@@ -92,6 +83,27 @@ second_number = int(second_num)
 print(first_number + second_number)
 # above i mathematically summed the two digits
 
+# mathematical operators
+# 5 + 2 # addition
+# 6 - 2 # subtraction
+# 8 / 2 # division
+# 2 * 2 # multiplication
+# 2 ** 2 # exponents (raise to the power)
+
+# when numbers are on the same line, there is usually an order that python follows to execute the calculation: BODMAS
+
+print(3 * 3 + 3 / 3 - 3)
+# the output of this code would be 7.0. Python follows the BODMAS rule in making this kind of calculation.
+# BODMAS = Brackets, Orders (exponents and roots), Division and Multiplication, Addition and Subtraction.
+# step by step execution of the code would go thus:
+# 3 * 3 = 9 (Multiplication) (from left to right)
+# 3 / 3 = 1 (Division) (from left to right)
+# 9 + 1 = 10 (Addition) (from left to right)
+# 10 - 3 = 7 (Subtraction) (from left to right)
+
+# print(3 * 3 + 3 / 3 - 3) # what can be changed in this line of code so the answer equals 3 and not 7?
+
+print(3 * 3 + 9 / 3 - 9)
 
 
 
