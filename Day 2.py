@@ -35,7 +35,7 @@ print(index)
 # basically the interpretation of alphabet.find(text[1]) is that in var alphabet, find the char of text's 1 index.
 
 letter = 'hello'
-print(letter.upper()) # you can also do lower
+print(letter.upper())   # you can also do lower
 # the above is just simple string manipulation
 
 school = 'School'
@@ -103,7 +103,33 @@ print(3 * 3 + 3 / 3 - 3)
 
 # print(3 * 3 + 3 / 3 - 3) # what can be changed in this line of code so the answer equals 3 and not 7?
 
-print(3 * 3 + 9 / 3 - 9)
+print(3 * 3 + 9 / 3 - 9)    # this equals 3
+
+# how do we round off in python
+
+print(round(8 / 3))     # the round method takes away the float to the nearest whole number
+
+print(round(8 / 3, 2))  # we can also specify how many decimal places we want. Here, it is two
+
+print(8 // 3)   # the // is the floor method of also eliminating floats. The output here would also be an int
+
+#   when we want to manipulate a variable that holds an existing number the below can come handy
+score = 1
+score += 1
+score *= 2
+print(score)
+
+# F-strings let us put variables and expressions into strings with having to convert the data type
+# let say we have variables with different data type like below
+
+goal = 1    # int
+height = 1.82   # float
+isWinning = True    # boolean
+
+#   with the F-string we can write the above into a string with having to change data type
+
+print(f"Your goal is {goal}, your height is {height}, and you are winning is {isWinning}")
+
 
 
 
