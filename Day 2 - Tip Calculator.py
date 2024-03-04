@@ -5,6 +5,7 @@ print('Welcome to my Tip Calculator')
 totalCost = float(input('What is the total bill: $'))
 Percent = int(input('What percentage tip would you like to give? 10, 12, or 15? '))
 numPeople = int(input('How many people to split the bill? '))
+#   the above is simply straight forward and below is the arithemetic
 
 tipAmount = totalCost * Percent/100
 billAndTip = totalCost + tipAmount
