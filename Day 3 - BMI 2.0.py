@@ -19,6 +19,8 @@ elif BMI < 35:
 else:
     print(f'Your BMI is {BMI}, and you are critically obese.')
 
+#   conditional logic above to interpret below
+
 #   <18.5 = underweight
 #   >18.5 == 25 = normal weight
 #   >25 < 30 = overweight
