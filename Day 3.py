@@ -47,6 +47,7 @@ if height >= 120:
     if wants_photo == 'Y':
         bill += 3
         print(f'Your total bill is ${bill}.')
+#   indentation really matters in python.
 else:
     print('Sorry, you need to grow taller to ride the rollercoaster')
 # in the above we introduced the elif which is the else-if conditional. We can have as much elif between if-else.
