@@ -28,15 +28,25 @@ else:
 
 # # the above is an example of nesting one if else conditional in another
 
+bill = 0
+
 if height >= 120:
     print('You are allowed to ride the rollercoaster')
     age = int(input('How old are you? '))
     if age < 12:
+        bill = 5
         print('Please pay $5.')
     elif age <= 18:
+        bill = 7
         print('Please pay $7.')
     else:
+        bill = 12
         print('Please pay $12.')
+
+    wants_photo = input('Do you want a photo? Y or N.')
+    if wants_photo == 'Y':
+        bill += 3
+        print(f'Your total bill is ${bill}.')
 else:
     print('Sorry, you need to grow taller to ride the rollercoaster')
 # in the above we introduced the elif which is the else-if conditional. We can have as much elif between if-else.
