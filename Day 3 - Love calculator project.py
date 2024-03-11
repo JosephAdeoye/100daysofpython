@@ -2,30 +2,25 @@ print('Welcome to the Love Calculator!')
 name1 = input('What is your name? \n')
 name2 = input('What is their name? \n')
 
-lower_case_name1 = name1.lower()
-lower_case_name2 = name2.lower()
+combined_name = name1 + name2
 
-# Count the total occurrences of 'true love' characters in the name
-total_occurrences_name1 = lower_case_name1.count('t') + lower_case_name1.count('r') + lower_case_name1.count('u') + \
-                            lower_case_name1.count('e') + lower_case_name1.count('l') + lower_case_name1.count('o') + \
-                            lower_case_name1.count('v') + lower_case_name1.count('e')
+lower_string_name = combined_name.lower()
 
-total_occurrences_name2 = lower_case_name2.count('t') + lower_case_name2.count('r') + lower_case_name2.count('u') + \
-                            lower_case_name2.count('e') + lower_case_name2.count('l') + lower_case_name2.count('o') + \
-                            lower_case_name2.count('v') + lower_case_name2.count('e')
+t = lower_string_name.count('t')
+r = lower_string_name.count('r')
+u = lower_string_name.count('u')
+e = lower_string_name.count('e')
 
-final_occurrence_name1 = str(total_occurrences_name1)
-final_occurrence_name2 = str(total_occurrences_name2)
+true = t + r + u + e
 
-love_level = int(final_occurrence_name1) + int(final_occurrence_name2)
-print(love_level)
+l = lower_string_name.count('l')
+o = lower_string_name.count('o')
+v = lower_string_name.count('v')
+e = lower_string_name.count('e')
 
-# if love_level >= 40:
-#     print('lol')
-# else:
-#
+love = l + o + v + e
 
-
+love_score = str(true) + str(love)
 
 
 
