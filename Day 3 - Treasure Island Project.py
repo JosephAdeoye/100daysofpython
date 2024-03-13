@@ -27,13 +27,14 @@ what_direction = direction.lower()
 
 if what_direction != 'left':
     print('You fell into a manhole, Game Over!')
-# else:
+else:
+    swim_wait = input('You have come to a slow flowing river. What do you want to do? Type "swim" or "wait" \n')
+    swim_or_wait = swim_wait.lower()
 
-swim_wait = input('You have come to a slow flowing river, What do you want to do? Type "swim" or "wait" \n')
-swim_or_wait = swim_wait.lower()
-
-if swim_or_wait != 'wait':
-    print('You were attacked by a crocodile, Game Over')
+    if swim_or_wait != 'wait':
+        print('You were attacked by a crocodile, Game Over')
+    else:
+        print('You have used a boat and arrived safely at the other side.')
 
 door = input('You are faced with three doors. Which do you enter? Type "blue", "yellow", "red" \n')
 which_door = door.lower()
@@ -46,4 +47,3 @@ elif which_door == 'red':
     print('You fell off a cliff, Game Over')
 else:
     print('Game Over')
-
