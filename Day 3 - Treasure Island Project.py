@@ -22,28 +22,17 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 ''')
 print('Welcome to Treasure Island!')
 print('Your objective is to find the Treasure.')
-direction = input('You are at a cross road. Where do you want to go? Type "left" or "right" \n')
-what_direction = direction.lower()
+direction = input('You are at a cross road. Where do you want to go? Type "left" or "right" \n').lower()
 
-if what_direction != 'left':
-    print('You fell into a manhole, Game Over!')
-else:
-    swim_wait = input('You have come to a slow flowing river. What do you want to do? Type "swim" or "wait" \n')
-    swim_or_wait = swim_wait.lower()
-
-    if swim_or_wait != 'wait':
-        print('You were attacked by a crocodile, Game Over')
+if direction == 'left':
+    swim_or_wait = input('Do you want to swim or wait? \n').lower()
+    if swim_or_wait != 'swim':
+        which_door = input('You  saw a boat and it ferried you across. You are now faced with three doors, which do you want to enter? "red", "yellow" or "blue" \n').lower()
+        if which_door != 'blue':
+            print('You entered a room filled with venomous snakes, Game Over!')
+        else:
+            print('You Win')
     else:
-        print('You have used a boat and arrived safely at the other side.')
-
-door = input('You are faced with three doors. Which do you enter? Type "blue", "yellow", "red" \n')
-which_door = door.lower()
-
-if which_door == 'yellow':
-    print('Congratulations, you have located the treasure, You Win!')
-elif which_door == 'blue':
-    print('You were eaten by beasts, Game Over')
-elif which_door == 'red':
-    print('You fell off a cliff, Game Over')
+        print('You were attacked by a croc, Game Over!')
 else:
-    print('Game Over')
+    print('You fell into a manhole, Game Over!')
