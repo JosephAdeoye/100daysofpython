@@ -31,7 +31,7 @@ if direction == 'left':
         if which_door != 'blue':
             print('You entered a room filled with venomous snakes, Game Over!')
         else:
-            print('You Win')
+            print('You found the trophy. You Win!')
     else:
         print('You were attacked by a croc, Game Over!')
 else:
