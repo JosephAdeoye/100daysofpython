@@ -30,3 +30,13 @@ fruits.append('cashew')
 
 fruits.extend(['mango', 'pineapple'])
 
+# you can also nest a list into another list
+
+EPL = ['Chelsea', 'Arsenal', 'City', 'ManUTD', 'Brighton']
+Championship = ['Ipswich', 'Leicester' 'Coventry']
+
+english_football_clubs = [EPL, Championship]
+
+print(english_football_clubs)
+
+# the result of the above is nesting the two strings inside each other.
