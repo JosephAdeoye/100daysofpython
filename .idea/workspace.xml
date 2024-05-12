@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better">
-      <change afterPath="$PROJECT_DIR$/Day 5.2 Highest score project..py" afterDir="false" />
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Completed day 5.2 highest score project">
+      <change afterPath="$PROJECT_DIR$/Day 5.3 exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5.1 Average height project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5.1 Average height project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5 Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5 Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,8 @@
     "Python.Day 4.1 project.executor": "Run",
     "Python.Day 5 Loops.executor": "Run",
     "Python.Day 5.1 Average height project.executor": "Run",
+    "Python.Day 5.2 Highest score project..executor": "Run",
+    "Python.Day 5.3 exercise.executor": "Run",
     "Python.Pizza Order project.executor": "Run",
     "Python.Tip Calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -426,12 +428,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715513086905</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Completed day 5.2 highest score project">
+      <option name="closed" value="true" />
+      <created>1715518838128</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1715518838128</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="more on day 2" />
     <MESSAGE value="completed day2 - life in weeks side project" />
     <MESSAGE value="started day2 - tip calculator final project" />
     <MESSAGE value="Wrapped up the tip calculator project" />
@@ -456,7 +465,8 @@
     <MESSAGE value="Started working on Rock, Paper &amp; Scissors game." />
     <MESSAGE value="Completed Rock, Paper &amp; Scissors game." />
     <MESSAGE value="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better" />
+    <MESSAGE value="Completed day 5.2 highest score project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed day 5.2 highest score project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
