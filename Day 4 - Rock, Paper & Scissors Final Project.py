@@ -25,7 +25,7 @@ scissors = '''
 ---.__(___)  
 '''
 
-user_choice = int(input('What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. '))
+user_choice = int(input('What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n'))
 
 if user_choice == 0:
     print(f"You chose: \n {rock}")
@@ -35,12 +35,14 @@ elif user_choice == 2:
     print(f"You chose: \n {scissors}")
 
 computer_choice = random.randint(0, 2)
-if computer_choice == 0:
-        print(f"Computer chose: \n {rock}")
+if user_choice > 2:
+    print('You lose')
+elif computer_choice == 0:
+    print(f"Computer chose: \n {rock}")
 elif computer_choice == 1:
-        print(f"Computer chose: \n {paper}")
+    print(f"Computer chose: \n {paper}")
 elif computer_choice == 2:
-        print(f"Computer chose: \n {scissors}")
+    print(f"Computer chose: \n {scissors}")
 
 #   Rules ---
 #   Rock beats scissors (rock crushes scissors)
@@ -64,14 +66,9 @@ if computer_choice == 1 and user_choice == 0:
 elif user_choice == 1 and computer_choice == 0:
     print('You won, computer lost')
 
-else:
+if user_choice == 0 and computer_choice == 0:
     print('It is a draw. Play Again!')
-
-
-
-
-
-
-
-
-
+if user_choice == 1 and computer_choice == 1:
+    print('It is a draw. Play Again!')
+if user_choice == 2 and computer_choice == 2:
+    print('It is a draw. Play Again!')
