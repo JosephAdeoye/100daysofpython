@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Completed Rock, Paper &amp; Scissors game.">
-      <change afterPath="$PROJECT_DIR$/Day 5 Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5.1 Average height project.py" afterDir="false" />
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better">
+      <change afterPath="$PROJECT_DIR$/Day 5.2 Highest score project..py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - Rock, Paper &amp; Scissors Final Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4 - Rock, Paper &amp; Scissors Final Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5.1 Average height project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5.1 Average height project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,12 +418,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715469360189</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better">
+      <option name="closed" value="true" />
+      <created>1715513086905</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1715513086905</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Completed day 2 BMI calculator challenge" />
     <MESSAGE value="more on day 2" />
     <MESSAGE value="completed day2 - life in weeks side project" />
     <MESSAGE value="started day2 - tip calculator final project" />
@@ -449,7 +455,8 @@
     <MESSAGE value="Completed the treasure map project" />
     <MESSAGE value="Started working on Rock, Paper &amp; Scissors game." />
     <MESSAGE value="Completed Rock, Paper &amp; Scissors game." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Rock, Paper &amp; Scissors game." />
+    <MESSAGE value="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
