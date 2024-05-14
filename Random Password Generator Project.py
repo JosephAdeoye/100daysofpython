@@ -11,15 +11,11 @@ nr_letters = int(input('How many letters would you like in your password?\n'))
 nr_symbols = int(input('How many symbols would you like to have in your password?\n'))
 nr_numbers = int(input('How many numbers would you like to have in your password?\n'))
 
-for_letters = ''.join(random.sample(letters, nr_letters))
-for_symbols = ''.join(random.sample(symbols, nr_symbols))
-for_numbers = ''.join(random.sample(numbers, nr_numbers))
+password_characters = random.sample(letters, nr_letters) + random.sample(symbols, nr_symbols) + \
+                      random.sample(numbers, nr_numbers)
 
-pass_word = for_letters + for_symbols + for_numbers
+random.shuffle(password_characters)
 
+password = ''.join(password_characters)
 
-
-
-print(f'Your password is  {pass_word}')
-
-
+print(f'Your password is  {password}')
