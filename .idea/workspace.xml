@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="added another way to complete 5.3 mini-project">
-      <change afterPath="$PROJECT_DIR$/Day 5.4 FizzBuzz project.py" afterDir="false" />
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="completed 5.4 FizzBuzz-project">
+      <change afterPath="$PROJECT_DIR$/Random Password Generator Project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5 Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5 Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Python.Day 5.3 exercise.executor": "Run",
     "Python.Day 5.4 FizzBuzz project.executor": "Run",
     "Python.Pizza Order project.executor": "Run",
+    "Python.Random Password Generator Project.executor": "Run",
     "Python.Tip Calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -468,12 +470,27 @@
       <option name="project" value="LOCAL" />
       <updated>1715554066866</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="completed 5.4 FizzBuzz-project">
+      <option name="closed" value="true" />
+      <created>1715679235060</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679235060</updated>
+    </task>
+    <task id="LOCAL-00049" summary="completed 5.4 FizzBuzz-project">
+      <option name="closed" value="true" />
+      <created>1715679321713</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679321713</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Wrapped up the tip calculator project" />
     <MESSAGE value="Started Day 3 and started learning about conditional statements" />
     <MESSAGE value="Finished the BMI 2.0 calculator" />
     <MESSAGE value="Some revisions on Day 3" />
@@ -498,7 +515,8 @@
     <MESSAGE value="Completed day 5.2 highest score project" />
     <MESSAGE value="Completed day 5.3 mini-project" />
     <MESSAGE value="added another way to complete 5.3 mini-project" />
-    <option name="LAST_COMMIT_MESSAGE" value="added another way to complete 5.3 mini-project" />
+    <MESSAGE value="completed 5.4 FizzBuzz-project" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed 5.4 FizzBuzz-project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
