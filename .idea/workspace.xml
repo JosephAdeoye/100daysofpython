@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Completed day 5.3 mini-project">
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="added another way to complete 5.3 mini-project">
+      <change afterPath="$PROJECT_DIR$/Day 5.4 FizzBuzz project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5.3 exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5.3 exercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
     "Python.Day 5.1 Average height project.executor": "Run",
     "Python.Day 5.2 Highest score project..executor": "Run",
     "Python.Day 5.3 exercise.executor": "Run",
+    "Python.Day 5.4 FizzBuzz project.executor": "Run",
     "Python.Pizza Order project.executor": "Run",
     "Python.Tip Calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -459,12 +460,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715553546206</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="added another way to complete 5.3 mini-project">
+      <option name="closed" value="true" />
+      <created>1715554066866</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1715554066866</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="started day2 - tip calculator final project" />
     <MESSAGE value="Wrapped up the tip calculator project" />
     <MESSAGE value="Started Day 3 and started learning about conditional statements" />
     <MESSAGE value="Finished the BMI 2.0 calculator" />
@@ -489,7 +497,8 @@
     <MESSAGE value="Started day 5 and completed day 5.1 Average height project, and I made the rock, paper and scissors game from day 4 better" />
     <MESSAGE value="Completed day 5.2 highest score project" />
     <MESSAGE value="Completed day 5.3 mini-project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed day 5.3 mini-project" />
+    <MESSAGE value="added another way to complete 5.3 mini-project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added another way to complete 5.3 mini-project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
