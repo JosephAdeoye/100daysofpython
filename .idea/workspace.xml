@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Started the Random Password Generator Project">
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Completed the Random Password Generator Project">
+      <change afterPath="$PROJECT_DIR$/Day 6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random Password Generator Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random Password Generator Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5 Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5 Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,43 +41,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Day 1 project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 2 - BMI Calculator Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 2 - Life in Weeks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 3 - BMI 2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 3 - Leap Year Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 3 - Love calculator project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 3 - Treasure Island Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 3 project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 4 - Heads or Tails project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 4 - Randomisation and Python Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 4 - Rock, Paper &amp; Scissors Final Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 4 - Treasure Map project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 4 - Who Pays Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 4.1 project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 5 Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 5.1 Average height project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 5.2 Highest score project..executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 5.3 exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 5.4 FizzBuzz project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pizza Order project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Random Password Generator Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tip Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Josep/100 days of python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Day 1 project.executor": "Run",
+    "Python.Day 1.executor": "Run",
+    "Python.Day 2 - BMI Calculator Project.executor": "Run",
+    "Python.Day 2 - Life in Weeks.executor": "Run",
+    "Python.Day 2.executor": "Run",
+    "Python.Day 3 - BMI 2.0.executor": "Run",
+    "Python.Day 3 - Leap Year Project.executor": "Run",
+    "Python.Day 3 - Love calculator project.executor": "Run",
+    "Python.Day 3 - Treasure Island Project.executor": "Run",
+    "Python.Day 3 project.executor": "Run",
+    "Python.Day 3.executor": "Run",
+    "Python.Day 4 - Heads or Tails project.executor": "Run",
+    "Python.Day 4 - Randomisation and Python Lists.executor": "Run",
+    "Python.Day 4 - Rock, Paper & Scissors Final Project.executor": "Run",
+    "Python.Day 4 - Treasure Map project.executor": "Run",
+    "Python.Day 4 - Who Pays Project.executor": "Run",
+    "Python.Day 4.1 project.executor": "Run",
+    "Python.Day 5 Loops.executor": "Run",
+    "Python.Day 5.1 Average height project.executor": "Run",
+    "Python.Day 5.2 Highest score project..executor": "Run",
+    "Python.Day 5.3 exercise.executor": "Run",
+    "Python.Day 5.4 FizzBuzz project.executor": "Run",
+    "Python.Day 6.executor": "Run",
+    "Python.Pizza Order project.executor": "Run",
+    "Python.Random Password Generator Project.executor": "Run",
+    "Python.Tip Calculator.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Josep/Random password generator",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,14 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709206132142</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Went through the content of the entire day on Angela Yu's course">
-      <option name="closed" value="true" />
-      <created>1709220881735</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1709220881735</updated>
     </task>
     <task id="LOCAL-00003" summary="Completed day 1 project">
       <option name="closed" value="true" />
@@ -485,12 +479,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715695842366</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Completed the Random Password Generator Project">
+      <option name="closed" value="true" />
+      <created>1715699684937</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1715699684937</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Finished the BMI 2.0 calculator" />
     <MESSAGE value="Some revisions on Day 3" />
     <MESSAGE value="Finished pizza order project" />
     <MESSAGE value="Started Love calculator project and renamed pizza order project" />
@@ -515,7 +516,8 @@
     <MESSAGE value="added another way to complete 5.3 mini-project" />
     <MESSAGE value="completed 5.4 FizzBuzz-project" />
     <MESSAGE value="Started the Random Password Generator Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started the Random Password Generator Project" />
+    <MESSAGE value="Completed the Random Password Generator Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Random Password Generator Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
