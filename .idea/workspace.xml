@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Completed the Random Password Generator Project">
-      <change afterPath="$PROJECT_DIR$/Day 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5 Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5 Loops.py" afterDir="false" />
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Started Day 6">
+      <change afterPath="$PROJECT_DIR$/Day 7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,14 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709206132142</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Completed day 1 project">
-      <option name="closed" value="true" />
-      <created>1709222087858</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1709222087858</updated>
     </task>
     <task id="LOCAL-00004" summary="Completed day 2">
       <option name="closed" value="true" />
@@ -487,12 +478,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715699684937</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Started Day 6">
+      <option name="closed" value="true" />
+      <created>1715728829272</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1715728829272</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Some revisions on Day 3" />
     <MESSAGE value="Finished pizza order project" />
     <MESSAGE value="Started Love calculator project and renamed pizza order project" />
     <MESSAGE value="continued the Love calculator project" />
@@ -517,7 +515,8 @@
     <MESSAGE value="completed 5.4 FizzBuzz-project" />
     <MESSAGE value="Started the Random Password Generator Project" />
     <MESSAGE value="Completed the Random Password Generator Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the Random Password Generator Project" />
+    <MESSAGE value="Started Day 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started Day 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
