@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Still working on the Hangman game">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="back">
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,7 @@
     "Python.Day 5.4 FizzBuzz project.executor": "Run",
     "Python.Day 6.executor": "Run",
     "Python.Day 7.executor": "Run",
+    "Python.Functions.executor": "Run",
     "Python.Pizza Order project.executor": "Run",
     "Python.Random Password Generator Project.executor": "Run",
     "Python.Tip Calculator.executor": "Run",
@@ -106,14 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709206132142</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Completed day 2 BMI calculator challenge">
-      <option name="closed" value="true" />
-      <created>1709417999378</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1709417999378</updated>
     </task>
     <task id="LOCAL-00008" summary="more on day 2">
       <option name="closed" value="true" />
@@ -499,12 +492,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715864602658</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="back">
+      <option name="closed" value="true" />
+      <created>1717793359289</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1717793359290</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="continued the Love calculator project" />
     <MESSAGE value="finished the Love calculator project" />
     <MESSAGE value="started the treasure island project" />
     <MESSAGE value="written the most part of the logic but there are still some things to fix" />
@@ -529,7 +529,8 @@
     <MESSAGE value="Started Day 6" />
     <MESSAGE value="Started Day 7" />
     <MESSAGE value="Still working on the Hangman game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Still working on the Hangman game" />
+    <MESSAGE value="back" />
+    <option name="LAST_COMMIT_MESSAGE" value="back" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
