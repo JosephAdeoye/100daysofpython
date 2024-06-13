@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Learning more about functions">
+    <list default="true" id="72176d4e-5121-44df-bacb-2ae5483b8204" name="Changes" comment="Learned how Return works">
+      <change afterPath="$PROJECT_DIR$/Simple Banking Program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,7 @@
     "Python.Functions.executor": "Run",
     "Python.Pizza Order project.executor": "Run",
     "Python.Random Password Generator Project.executor": "Run",
+    "Python.Simple Banking Program.executor": "Run",
     "Python.Tip Calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,14 +108,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709206132142</updated>
-    </task>
-    <task id="LOCAL-00010" summary="more on day 2">
-      <option name="closed" value="true" />
-      <created>1709425978316</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1709425978316</updated>
     </task>
     <task id="LOCAL-00011" summary="completed day2 - life in weeks side project">
       <option name="closed" value="true" />
@@ -500,12 +493,19 @@
       <option name="project" value="LOCAL" />
       <updated>1718178893958</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Learned how Return works">
+      <option name="closed" value="true" />
+      <created>1718181716028</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1718181716029</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="started the treasure island project" />
     <MESSAGE value="written the most part of the logic but there are still some things to fix" />
     <MESSAGE value="couldn't code today but I reviewed some exercises on Freecodecamp" />
     <MESSAGE value="completed the treasure island project" />
@@ -530,7 +530,8 @@
     <MESSAGE value="Still working on the Hangman game" />
     <MESSAGE value="back" />
     <MESSAGE value="Learning more about functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning more about functions" />
+    <MESSAGE value="Learned how Return works" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned how Return works" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
