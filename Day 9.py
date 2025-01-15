@@ -20,9 +20,15 @@ programming_dictionary["recursion"] = "A function that calls itself."
 empty_dictionary = {}
 
 # wiping an existing dictionary
-
-programming_dictionary = {}
+# programming_dictionary = {}
+# print(programming_dictionary)
 
 # editing an item in a dictionary
 
 programming_dictionary["bug"] = "A moth in your computer."
+print(programming_dictionary)
+
+# looping through a dictionary
+for key in programming_dictionary:
+    print(key)
+    print(programming_dictionary[key])
