@@ -4,6 +4,7 @@ student_scores = {
     "Hermione": 99,
     "Draco": 74,
     "Neville": 62,
+    "Richard": 12,
 }
 
 # This is the scoring criteria

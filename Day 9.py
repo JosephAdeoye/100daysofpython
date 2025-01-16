@@ -32,3 +32,30 @@ print(programming_dictionary)
 for key in programming_dictionary:
     print(key)
     print(programming_dictionary[key])
+
+# Nesting 
+capitals = {
+    "Nigeria": "Abuja",
+    "United Kingdom": "London",
+    "Germany": "Berlin", 
+    "United States": "Washington DC"
+}
+
+# Nesting a list in a dictionary
+
+travels_log = [
+    {
+        "Country": "Germany", 
+        "cities_visited": ["Frankfurt", "Berlin", "Munich", "Dortmund"], 
+        "total_visits": 17
+    },
+    {
+        "Country": "Nigeria",
+        "cities_visited": ["Abuja", "Lagos", "Oyo", "Osun", "Ondo", "Imo"], 
+        "total_visits": 47}
+]
+
+print(travels_log)
+
+# In lists, items are accessed by using their index
+# In Dictionaries however, items are accessed by using their keys 
